@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e41ef0ba-5cdd-43ee-9ef5-5cf66b47c5fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwapGame1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructor/GetClassName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructor/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructor/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/ThreedPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritanceAndPorlimorphism/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdasAndStream/Consumer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdasAndStream/Predicate01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/Caluclator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lambadasAndStream/Test01Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lambadasAndStream/TestPredicate01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src1/main/java/SimUDuckApp/duck/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src1/main/java/SimUDuckApp/duck/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src1/main/java/SimUDuckApp/duck/FlyRockletPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src1/main/java/SimUDuckApp/duck/FlyWithWrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src1/main/java/SimUDuckApp/duck/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src1/main/java/SimUDuckApp/duck/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src1/main/java/SimUDuckApp/duck/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src1/main/java/SimUDuckApp/duck/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src1/main/java/SimUDuckApp/duck/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src1/main/java/SimUDuckApp/duck/Squeak.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2aTFtIW6VHLP82m4NR8yLSVvueo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Caluclator.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.Consumer01.executor": "Run",
+    "Application.GetClassName.executor": "Run",
+    "Application.MiniDuckSimulator.executor": "Run",
+    "Application.Point.executor": "Run",
+    "Application.Predicate01.executor": "Run",
+    "Application.Student.executor": "Run",
+    "JUnit.All in myProject (1).executor": "Run",
+    "JUnit.All in myProject.executor": "Coverage",
+    "JUnit.Predicate01.executor": "Run",
+    "JUnit.Test01Consumer.Consumer01.executor": "Run",
+    "JUnit.Test01Consumer.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.myProject [clean].executor": "Run",
+    "Maven.myProject [compile].executor": "Run",
+    "Maven.myProject [deploy].executor": "Run",
+    "Maven.myProject [install].executor": "Run",
+    "Maven.myProject [test].executor": "Run",
+    "Maven.myProject [validate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MiniDuckSimulator">
+    <configuration name="GetClassName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructor.GetClassName" />
+      <module name="myProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="duck.MiniDuckSimulator" />
+      <module name="myProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="duck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Predicate01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdasAndStream.Predicate01" />
+      <module name="myProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdasAndStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in myProject (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPredicate01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambadasAndStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lambadasAndStream" />
+      <option name="MAIN_CLASS_NAME" value="lambadasAndStream.TestPredicate01" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniDuckSimulator" />
+        <item itemvalue="Application.GetClassName" />
+        <item itemvalue="Application.Predicate01" />
+        <item itemvalue="JUnit.TestPredicate01" />
+        <item itemvalue="JUnit.All in myProject (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-1e16d6ec" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e41ef0ba-5cdd-43ee-9ef5-5cf66b47c5fb" name="Changes" comment="" />
+      <created>1704334876966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704334876966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.AssertionError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myProject$All_in_myProject.ic" NAME="All in myProject Coverage Results" MODIFIED="1707186272261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
